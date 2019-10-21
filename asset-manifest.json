@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.41e83c1d.chunk.css",
-  "main.js": "/static/js/main.8f63392f.chunk.js",
-  "main.js.map": "/static/js/main.8f63392f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/css/2.0b083882.chunk.css": "/static/css/2.0b083882.chunk.css",
-  "static/js/2.5399c60c.chunk.js": "/static/js/2.5399c60c.chunk.js",
-  "static/js/2.5399c60c.chunk.js.map": "/static/js/2.5399c60c.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.28fe4acb6ec76cbab4ded768d592221d.js": "/precache-manifest.28fe4acb6ec76cbab4ded768d592221d.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.0b083882.chunk.css.map": "/static/css/2.0b083882.chunk.css.map",
-  "static/css/main.41e83c1d.chunk.css.map": "/static/css/main.41e83c1d.chunk.css.map"
+  "main.css": "/muta-wallet/static/css/main.41e83c1d.chunk.css",
+  "main.js": "/muta-wallet/static/js/main.3261a056.chunk.js",
+  "main.js.map": "/muta-wallet/static/js/main.3261a056.chunk.js.map",
+  "runtime~main.js": "/muta-wallet/static/js/runtime~main.5bbb0d6e.js",
+  "runtime~main.js.map": "/muta-wallet/static/js/runtime~main.5bbb0d6e.js.map",
+  "static/css/2.0b083882.chunk.css": "/muta-wallet/static/css/2.0b083882.chunk.css",
+  "static/js/2.c21fb64a.chunk.js": "/muta-wallet/static/js/2.c21fb64a.chunk.js",
+  "static/js/2.c21fb64a.chunk.js.map": "/muta-wallet/static/js/2.c21fb64a.chunk.js.map",
+  "index.html": "/muta-wallet/index.html",
+  "precache-manifest.23841838674bc1abdf48e68fef003e5f.js": "/muta-wallet/precache-manifest.23841838674bc1abdf48e68fef003e5f.js",
+  "service-worker.js": "/muta-wallet/service-worker.js",
+  "static/css/2.0b083882.chunk.css.map": "/muta-wallet/static/css/2.0b083882.chunk.css.map",
+  "static/css/main.41e83c1d.chunk.css.map": "/muta-wallet/static/css/main.41e83c1d.chunk.css.map"
 }
