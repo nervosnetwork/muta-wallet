@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/homura/muta-wallet/precache-manifest.e8b60069364f98f94bb64d73457ad0d6.js"
+  "/muta-wallet/precache-manifest.8b8b3c22e0df0b2af3c3a62b2c750fb3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/homura/muta-wallet/index.html", {
+workbox.routing.registerNavigationRoute("/muta-wallet/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

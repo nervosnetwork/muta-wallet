@@ -1,15 +1,15 @@
 {
-  "main.css": "/homura/muta-wallet/static/css/main.6e134c0c.chunk.css",
-  "main.js": "/homura/muta-wallet/static/js/main.40e60164.chunk.js",
-  "main.js.map": "/homura/muta-wallet/static/js/main.40e60164.chunk.js.map",
-  "runtime~main.js": "/homura/muta-wallet/static/js/runtime~main.6dcbbed5.js",
-  "runtime~main.js.map": "/homura/muta-wallet/static/js/runtime~main.6dcbbed5.js.map",
-  "static/css/2.0b083882.chunk.css": "/homura/muta-wallet/static/css/2.0b083882.chunk.css",
-  "static/js/2.0a011218.chunk.js": "/homura/muta-wallet/static/js/2.0a011218.chunk.js",
-  "static/js/2.0a011218.chunk.js.map": "/homura/muta-wallet/static/js/2.0a011218.chunk.js.map",
-  "index.html": "/homura/muta-wallet/index.html",
-  "precache-manifest.e8b60069364f98f94bb64d73457ad0d6.js": "/homura/muta-wallet/precache-manifest.e8b60069364f98f94bb64d73457ad0d6.js",
-  "service-worker.js": "/homura/muta-wallet/service-worker.js",
-  "static/css/2.0b083882.chunk.css.map": "/homura/muta-wallet/static/css/2.0b083882.chunk.css.map",
-  "static/css/main.6e134c0c.chunk.css.map": "/homura/muta-wallet/static/css/main.6e134c0c.chunk.css.map"
+  "main.css": "/muta-wallet/static/css/main.6e134c0c.chunk.css",
+  "main.js": "/muta-wallet/static/js/main.c863709b.chunk.js",
+  "main.js.map": "/muta-wallet/static/js/main.c863709b.chunk.js.map",
+  "runtime~main.js": "/muta-wallet/static/js/runtime~main.5bbb0d6e.js",
+  "runtime~main.js.map": "/muta-wallet/static/js/runtime~main.5bbb0d6e.js.map",
+  "static/css/2.0b083882.chunk.css": "/muta-wallet/static/css/2.0b083882.chunk.css",
+  "static/js/2.1f357bb0.chunk.js": "/muta-wallet/static/js/2.1f357bb0.chunk.js",
+  "static/js/2.1f357bb0.chunk.js.map": "/muta-wallet/static/js/2.1f357bb0.chunk.js.map",
+  "index.html": "/muta-wallet/index.html",
+  "precache-manifest.8b8b3c22e0df0b2af3c3a62b2c750fb3.js": "/muta-wallet/precache-manifest.8b8b3c22e0df0b2af3c3a62b2c750fb3.js",
+  "service-worker.js": "/muta-wallet/service-worker.js",
+  "static/css/2.0b083882.chunk.css.map": "/muta-wallet/static/css/2.0b083882.chunk.css.map",
+  "static/css/main.6e134c0c.chunk.css.map": "/muta-wallet/static/css/main.6e134c0c.chunk.css.map"
 }
