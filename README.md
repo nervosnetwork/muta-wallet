@@ -4,12 +4,12 @@ A simple HD Wallet for [Muta](https://github.com/nervosnetwork/muta)
 
 The wallet is at a very early stage, more may be used for development and debugging with Muta.
 
-The online version is [available](https://homura.github.io/muta-wallet) now. Since the online version deployed on github pages with HTTPS, so we need a HTTPS GraphQL endpoint when we try the wallet online. Or clone it to local run with HTTP server.
+The online version is [available](https://nervosnetwork.github.io/muta-wallet) now. Since the online version deployed on github pages with HTTPS, so we need a HTTPS GraphQL endpoint when we try the wallet online. Or clone it to local run with HTTP server.
 
 ## Quick Start
 
 ```shell
-git clone http://github.com/homura/muta-wallet
+git clone http://github.com/nervosnetwork/muta-wallet
 cd muta-wallet
 yarn
 yarn run start
