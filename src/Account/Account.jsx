@@ -45,7 +45,7 @@ export default function Account() {
     carryingAssetId,
     onTransferFinish,
   }) {
-    const tx = await muta.client.createTransferTx({
+    const tx = await muta.client.prepareTransferTransaction({
       receiver,
       carryingAmount: utils.toHex(carryingAmount),
       feeCycle: utils.toHex(feeCycle),
@@ -54,8 +54,8 @@ export default function Account() {
     });
 
     const account = muta.accountFromPrivateKey(privateKey);
-    const inputEncryption = account.signTransaction(tx);
-    await muta.client.sendTransferTransaction({ ...tx, inputEncryption });
+    const signed = account.signTransaction(tx);
+    await muta.client.sendTransferTransaction(signed);
     message.success(`transfer requested`);
     onTransferFinish();
   }
