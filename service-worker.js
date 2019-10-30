@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/muta-wallet/precache-manifest.8b8b3c22e0df0b2af3c3a62b2c750fb3.js"
+  "/muta-wallet/precache-manifest.526e4b35faf9e90e5ab722a9ec7e09fc.js"
 );
 
 workbox.clientsClaim();
