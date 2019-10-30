@@ -1,7 +1,7 @@
 {
   "name": "muta-wallet",
   "version": "0.1.0",
-  "homepage": "https://github.com/homura/muta-wallet",
+  "homepage": "https://nervosnetwork.github.io/muta-wallet",
   "dependencies": {
     "@jbuschke/formik-antd": "^1.5.2",
     "antd": "^3.23.1",
